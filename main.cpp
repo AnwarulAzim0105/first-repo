@@ -2,7 +2,9 @@
 #include "Warrior.h"
 using namespace std;
 
-int MainFunction()
+
+int MainFunctionTo()
+
 {
 	cout << "HelloWorld!" << endl;
 	cour << "Programming is a fun" << endl;
